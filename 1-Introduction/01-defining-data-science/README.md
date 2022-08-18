@@ -12,6 +12,7 @@
 
 ## What is Data?
 In our everyday life, we are constantly surrounded by data. The text you are reading now is data.  The list of phone numbers of your friends in your smartphone is data, as well as the current time displayed on your watch. As human beings, we naturally operate with data by counting the money we have or by writing letters to our friends.
+在日常生活中，数据围绕在我们周围。文本是数据， 朋友的电话号码是数据，时间是数据。作为人类，我们在进行数钱、或者发短信等操作的时候自然而然用到了数据。
 
 However, data became much more critical with the creation of computers.  The primary role of computers is to perform computations, but they need data to operate on.  Thus, we need to understand how computers store and process data.
 
